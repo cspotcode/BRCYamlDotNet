@@ -1,8 +1,8 @@
 # BRCYamlDotNet
 
-FOR PLUGIN MAKERS - YamlDotNet library, published to Thunderstore for other mods to use.
+FOR PLUGIN MAKERS - YamlDotNet library, published to Thunderstore for other plugins to use.
 
-Avoids mods publishing duplicate, potentially conflicting copies of YamlDotNet.
+Avoids plugins publishing duplicate, potentially conflicting copies of YamlDotNet.
 
 See also: https://valheim.thunderstore.io/package/Tekla/YamlDotNet/
 

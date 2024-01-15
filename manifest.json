@@ -1,0 +1,8 @@
+{
+    "name": "YamlDotNet",
+    "author": "aaubry",
+    "description": "YamlDotNet library",
+    "version_number": "13.7.1",
+    "website_url": "https://github.com/cspotcode/BRCYamlDotNet",
+    "dependencies": []
+}
